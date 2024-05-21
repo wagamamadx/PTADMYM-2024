@@ -46,8 +46,6 @@ distancia. Para eso usaremos los siguientes rubros:
 3. Puedes usar cualquier otra librería adicional.
 6. Para almacenar los datos puedes usar cualquier motor de base de datos(mysql,sql,postgreSQL,db2,oracle, etc).
 
-## REGLAS
-Los respuestos obtenidos se debe de FILTRAR por Nombre de producto, Precio mínimo, Precio máximo. Este ultimo se van a reflejar despues de haber procesado la informacion.
 
 ## Publicación
 El repositorio se pondrá en publico y se compartira el enlace por correo a: jmeza@mym.com.pe, jtrillo@mym.com.pe, gsaavedra@mym.com.pe
