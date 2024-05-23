@@ -9,7 +9,7 @@ Esperamos ver tus avances graduales en ciclos cortos. Esta prueba támbien se co
 3. Haz múltiples _pull requests_ pequeños (menos de 100 líneas cada uno)
 4. Usa GitHub (_issues_ y _pull requests_) como el medio de comunicación principal.
 
-## Rúbrica
+## Rúbricaa
 
 El objetivo de esta prueba técnica es evaluar las habilidades para el trabajo colaborativo a
 distancia. Para eso usaremos los siguientes rubros:
